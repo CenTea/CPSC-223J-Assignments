@@ -1,6 +1,7 @@
 # CPSC-223J-Assignments
 
-Some of the Assignments for a course in Java
+Some of the Assignments for a course in Java.
+
 Most of these assignments aimed to be completed within less than an hour.
 
 Notes:
